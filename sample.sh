@@ -1,1 +1,1 @@
-echo "hello Devops"
+print('Hello, world!')
